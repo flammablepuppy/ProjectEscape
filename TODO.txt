@@ -4,3 +4,6 @@ Made a function on the HUD for use when displaying pickup messages. Should be cl
 I totally changed the way we pass the interacting player, it's now an output parameter of the InteractionInterface, which means we don't have to cast to whatever we're interacting with (just to the interface). This allows me to iterate on BaseInteractable (like the new HealthPickup) and I don't need to cast to both the base AND the new health pickup AND whatever other classes we come up with. To keep the code you did working, I just set the "Interacting Player" inside the BaseInteractable with the interface output.
 
 I decided I'd rather have a whole bunch of classes rather than piling a shitton of code into one class and using an enumerator to decide what the item is.
+
+9 March
+Added a pistol pickup with the mesh I made. We need to figure out how we're going to implement an inventory
