@@ -5,4 +5,4 @@ Source control is harder than programming the damn game.
 
 
 -Player 2 cant destroy consumables.
--When both players are in game, the computer doesnt work. it has something to do with Monitor/Class defaults/Input/AutoRecieveInput
+-Computer buttons arent replicating across the server...
