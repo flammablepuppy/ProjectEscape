@@ -8,3 +8,4 @@ TODO
 -Player 2 cant destroy consumables.
 -Computer buttons arent replicating across the server...
 -If you try and run the game from the 'EscapeLevel' UE4 will crash, make sure you have the 'Menu' Level loaded.
+-Current Model blocks the UI so its currently set to No Collision.
