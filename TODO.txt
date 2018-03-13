@@ -1,9 +1,10 @@
 Source control is harder than programming the damn game.
 
+Done
+-Spawned in an Alien, and on sight it follows the person it sees.
 
 
-
-
+TODO
 -Player 2 cant destroy consumables.
 -Computer buttons arent replicating across the server...
 -If you try and run the game from the 'EscapeLevel' UE4 will crash, make sure you have the 'Menu' Level loaded.
